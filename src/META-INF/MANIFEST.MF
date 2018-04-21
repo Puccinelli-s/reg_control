@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: App.jar
+Main-Class: app.main.Main
+Created-By: 1.0.0_00 (Puccinelli's Corporation)
+
